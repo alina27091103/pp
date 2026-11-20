@@ -14,4 +14,4 @@ print()
 print(f"в данном расстоянии {Number_of_metres} полных метров")
 
 print("/n========/n")
-      
+#hkgjj, vc gj
